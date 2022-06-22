@@ -6,7 +6,7 @@
 <script type="text/javascript">
 <!--
 function disp() {
- document.getElementById("target").innerHTML = "2回目の表示";
+ document.getElementById("target").innerHTML = "2";
 }
 //-->
 </script>
